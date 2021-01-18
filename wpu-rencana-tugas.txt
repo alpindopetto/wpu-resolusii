@@ -1,11 +1,8 @@
 RENCANA TUGAS WPU 
 -Mengerjakan javascript
--mengerjakan database
- -datbase siswa
- -database guru
--mengerjakan php
- -membuat login
- -membuat register
+-mengerjakan html
+ -membuat halaman profile
+ -membuat halaman dasboard
 -mengerjakan diagram
  -uml
  -dml
