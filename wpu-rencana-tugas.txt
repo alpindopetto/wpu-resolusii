@@ -2,8 +2,6 @@ RENCANA TUGAS WPU
 -Mengerjakan javascript
 -mengerjakan html
 -mengerjakan database
- -database siswa
- -database guru
 -mengerjakan php
 -mengerjakan diagram
  -uml
