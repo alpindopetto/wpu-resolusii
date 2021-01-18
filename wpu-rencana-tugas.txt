@@ -4,3 +4,6 @@ RENCANA TUGAS WPU
 -mengerjakan database
 -mengerjakan php
 -mengerjakan diagram
+ -uml
+ -dml
+ 
