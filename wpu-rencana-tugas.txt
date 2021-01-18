@@ -2,3 +2,5 @@ RENCANA TUGAS WPU
 -Mengerjakan javascript
 -mengerjakan html
 -mengerjakan database
+-mengerjakan php
+-mengerjakan diagram
